@@ -22,7 +22,7 @@
 
 ## Deploy da Aplicação com Firebase: :rocket:
 
-> */Colocar o link do firebase aqui/*
+https://eddit-89578.web.app/
 
 ## pré-requesitos :no_entry_sign:
 * [npm](https://docs.npmjs.com/cli/install#:~:text=npm%20install%20(in%20package%20directory,directory)%20as%20a%20global%20package.)
