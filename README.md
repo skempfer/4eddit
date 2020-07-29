@@ -1,9 +1,9 @@
-# 4eddit
+# 4eddit :pushpin:
 
 
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 
-## Descrição do Projeto
+## Descrição do Projeto :book:
 <p align="justify">Aplicação feita durante o curso de Desenvolvimento web full-stack, onde foi criada uma rede social integrada a uma API.
 </p>
 
