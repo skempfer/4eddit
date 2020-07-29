@@ -53,7 +53,7 @@ Execute a aplicação:
 npm start
 ```
 
-## Desenvolvedora :shipit:
+## Desenvolvedores :shipit:
 
 [<img src="https://avatars2.githubusercontent.com/u/60922841?s=400&u=c60700e48457e6edc2aa94bcb2824f7994e76504&v=4" width=115 > <br> <sub> João Meira </sub>](https://github.com/Meira-JH) | [<img src="https://avatars3.githubusercontent.com/u/59899999?s=400&u=4270d2c247eb059c14091c0e63f8af7fb6b4d203&v=4" width=115 > <br> <sub> Ana Kempfer </sub>](https://github.com/skempfer) | 
 |-------- | -------- |
