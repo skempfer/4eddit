@@ -14,6 +14,9 @@ export default function LoadingRing() {
   );
 }
 
+// um comentário qualquer
+
+
 const loadingAnimation = keyframes`
   0% {
     transform: rotate(0deg);
